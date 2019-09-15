@@ -13,3 +13,4 @@ git branch -d feature3
 git push origin feature3
 git merge feature3
 git push :feature3 删除分支
+git push feature3:f3 远端别名
