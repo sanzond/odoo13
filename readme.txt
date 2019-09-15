@@ -7,4 +7,8 @@ git add filename.txt
 git commit -m "remark string"
 git push origin master -u
 git pull
-git branch
+git branch feature3
+git checkout feature3
+git branch -d feature3
+git push origin feature3
+git merge feature3
