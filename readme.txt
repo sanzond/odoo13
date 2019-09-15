@@ -12,3 +12,4 @@ git checkout feature3
 git branch -d feature3
 git push origin feature3
 git merge feature3
+git push :feature3 删除分支
