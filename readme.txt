@@ -7,3 +7,4 @@ git add filename.txt
 git commit -m "remark string"
 git push origin master -u
 git pull
+git branch
